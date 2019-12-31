@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=xzap
+Comment=Kill xwindows.
+Keywords=kill;xzap;
+Exec=xzap
+Icon=battery
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=XFCE4;Core;System;Utility;
